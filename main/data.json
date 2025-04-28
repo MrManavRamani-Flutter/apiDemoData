@@ -1,0 +1,43 @@
+{
+          "link": "https://example.com/users/2",
+        "page_link": "https://example.com/profiles/anita"
+  "data": {
+            "link": "https://example.com/users/2",
+        "page_link": "https://example.com/profiles/anita"
+    "data": [
+      {
+        "id": "1",
+        "name": "manav",
+        "image": "https://example.com/image1.jpg",
+        "attributes": {
+          "role": "developer",
+          "location": "Surat",
+          "skills": ["Flutter", "Dart"]
+        },
+        "meta_tag": {
+          "title": "Manav's Profile",
+          "description": "Experienced Flutter Developer",
+          "keywords": ["Flutter", "Developer", "Surat"]
+        },
+        "link": "https://example.com/users/1",
+        "page_link": "https://example.com/profiles/manav"
+      },
+      {
+        "id": "2",
+        "name": "anita",
+        "image": "https://example.com/image2.jpg",
+        "attributes": {
+          "role": "designer",
+          "location": "Ahmedabad",
+          "skills": ["UI/UX", "Figma"]
+        },
+        "meta_tag": {
+          "title": "Anita's Portfolio",
+          "description": "Creative UI/UX Designer",
+          "keywords": ["Design", "UI/UX", "Ahmedabad"]
+        },
+
+      }
+    ]
+  }
+}
