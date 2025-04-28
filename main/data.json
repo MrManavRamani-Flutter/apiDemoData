@@ -1,9 +1,5 @@
 {
-  "link": "https://example.com/users/2",
-  "page_link": "https://example.com/profiles/anita",
   "data": {
-    "link": "https://example.com/users/2",
-    "page_link": "https://example.com/profiles/anita",
     "data": [
       {
         "id": "1",
